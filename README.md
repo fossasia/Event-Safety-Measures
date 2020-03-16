@@ -48,5 +48,4 @@ In order to avoid any potential spread venues should continuosly clean and sanit
 
 - Information of Lifelong Learning Institute https://www.lli.sg/content/lli/home/precautionary-measures-for-COVID-19.html
 - Ministry of Health’s website for latest updates on COVID-19: https://www.moh.gov.sg/covid-19
-
-
+- FOSSASIA Summit 2020 Takes Places as Online and Offline Event https://blog.fossasia.org/fossasia-summit-2020-takes-places-as-online-and-offline-event/
