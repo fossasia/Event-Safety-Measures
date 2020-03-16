@@ -36,3 +36,14 @@ The FOSSASIA team is committed to making this as safe as we reasonably can, and 
     - Trekkies finally have an excuse to use the Vulcan salute 🖖 in public!
     - Use your imagination…
     - We discourage alternative forms of greeting that merely reduce contact (fist bumps, knuckle bumps, elbow taps, foot taps, …).
+
+## Measures to keep facilities clean
+
+In order to avoid any potential spread venues should continuosly clean and sanitise areas.
+
+## Links with further information
+
+- Information of Lifelong Learning Institute https://www.lli.sg/content/lli/home/precautionary-measures-for-COVID-19.html
+- Ministry of Health’s website for latest updates on COVID-19: https://www.moh.gov.sg/covid-19
+
+
