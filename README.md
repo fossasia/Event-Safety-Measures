@@ -41,6 +41,9 @@ The FOSSASIA team is committed to making this as safe as we reasonably can, and 
 
 In order to avoid any potential spread venues should continuosly clean and sanitise areas.
 
+![Cleaning and Sanitisation](images/llicleaning.png "Cleaning and Sanitisation")
+
+
 ## Links with further information
 
 - Information of Lifelong Learning Institute https://www.lli.sg/content/lli/home/precautionary-measures-for-COVID-19.html
