@@ -26,6 +26,7 @@ The FOSSASIA team is committed to making this as safe as we reasonably can, and 
 
 ## Protections while you’re in Singapore, including at the Summit
 
+- Find the closest PHPC to your accommodation at [FluGoWhere](https://flugowhere.gov.sg).
 - If you wake up feeling unwell, or have a sore throat, or a cough, phone the PHPC nearest to where you are staying for advice. Please don’t come to the venue before doing this. TODO add links for hotels we know visitors are using.
 - If you brought a thermometer then please at least check your temperature before you come to the venue (the Ministry of Health recommends checking twice a day). If you have a fever then phone the PHPC nearest to where you are staying for advice. Please don’t come to the venue with a fever.
 - If you start to feel unwell during the conference, please find a quiet corner, phone the PHPC nearest to where you are staying (not the one nearest to the venue), and act on their advice.
